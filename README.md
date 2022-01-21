@@ -24,13 +24,6 @@ Our team was interested in predicting hospital readmissions for diabetic patient
 ## Background 
 The cost of hospital readmission accounts for a large portion of hospital inpatient services spending. Diabetes is not only one of the top ten leading causes of death in the world, but also the most expensive chronic disease in the United States. Hospitalized patients with diabetes are at higher risk of readmission than those without diabetes. American hospitals spend over $41 billion on diabetic patients who are readmitted within 30 days of discharge. Being able to determine factors that lead to higher readmission in such patients, and predicting which patients will get readmitted can help hospitals save millions of dollars while improving quality of care. Therefore, reducing readmission rates for diabetic patients has great potential to reduce medical cost. 
 
-## Technologies 
-- Python (pandas, matplotlib, numpy, scikit-learn)
-- Google Colab
-- PostgreSQL
-- Flask
-- SQLAlchemy
-
 ## Technologies: 
 - Python/Pandas/Sklearn
 - Keras
